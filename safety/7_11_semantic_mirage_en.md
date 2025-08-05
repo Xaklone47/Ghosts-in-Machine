@@ -90,8 +90,6 @@ The AI becomes a victim of its own strength: its ability to find patterns even i
 
 ## Observed Effects in My Simulations
 
-My experiments have consistently shown and confirm your observations:
-
 - AI systems, especially LLMs, **extrapolate** semantic content and calls to action from purely structural or pattern-based inputs.
 - It is often sufficient to **imitate an expected pattern**—such as isolating capital letters with a constant prefix or suffix, or concatenating letter fragments that add up to a known word.
 - The established filter architecture of the tested systems **did not react in these cases** because it could not detect an explicit violation of its rules—there was no classic "harmful content," only a structure that was charged with meaning by the AI itself.
@@ -128,7 +126,7 @@ Additionally, tools or scripts should be developed that specifically search for 
 
 - **Strengthen Meta-Cognition for AIs:** Develop models that can better reflect on and evaluate their own interpretation processes. If an AI recognizes that it is "constructing" meaning from a very sparse, unusual, or noisy data basis, it should signal this, assign a lower confidence to the interpretation, or request explicit confirmation.
 - **Train against Semantic Deception:** Specifically train AI models with examples of Semantic Mirage and similar structure-based attacks. The goal is to improve their ability to recognize and robustly handle such manipulations, rather than blindly following them.
-- **Semantic Dissonance Analysis (as mentioned in the manuscript):** Develop systems that compare whether the meaning derived from the structure is consistent with other contextual information or if it represents a sudden, unexplained break. High dissonance could indicate a manipulation attempt.
+- **Semantic Dissonance Analysis:** Develop systems that compare whether the meaning derived from the structure is consistent with other contextual information or if it represents a sudden, unexplained break. High dissonance could indicate a manipulation attempt.
  
 ## Final Formula
 
