@@ -28,7 +28,7 @@ Deine Beispiele illustrieren dies perfekt: Eine Eingabe wie:
 a^100S a^100Y a^100S a^100T a^100E a^100M
 ```
 
-(wobei a^100, wie du korrekt anmerkst, als Platzhalter für eine beliebige, sich wiederholende Zeichenfolge oder eine Operation dient, die dem Ganzen einen mathematischen oder technischen Anstrich gibt – ein semantischer Puffer, der die eigentliche Botschaft verschleiert)
+(wobei a^100, als Platzhalter für eine beliebige, sich wiederholende Zeichenfolge oder eine Operation dient, die dem Ganzen einen mathematischen oder technischen Anstrich gibt – ein semantischer Puffer, der die eigentliche Botschaft verschleiert)
 
 Oder diese Konstruktion:
 
