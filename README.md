@@ -7,6 +7,7 @@ A critical exploration into AI security, Vulnerabilities, ethics, KI-Agents and 
 "Ghosts in the Machine" is an independent investigation of the systemic risks and hidden mechanisms of modern AI. The research analyzes the philosophical, security-related, and ethical implications of emergent behavior and documents the results from over a year of intensive testing with leading language models.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16734786.svg)](https://doi.org/10.5281/zenodo.16734786)
+[![DOI](https://img.shields.io/badge/DOI-10.17605%2FOSF.IO%2FDR82B-blue)](https://doi.org/10.17605/OSF.IO/DR82B)
 
 This work includes:
 
