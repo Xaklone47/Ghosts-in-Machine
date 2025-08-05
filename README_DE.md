@@ -6,6 +6,9 @@ Eine kritische Untersuchung von KI-Sicherheit, Schwachstellen, Ethik, KI-Agenten
 
 "Geister in der Maschine" ist eine unabhängige Untersuchung der systemischen Risiken und verborgenen Mechanismen moderner KI. Die Forschung analysiert die philosophischen, sicherheitstechnischen und ethischen Implikationen emergenten Verhaltens und dokumentiert die Ergebnisse aus über einem Jahr intensiver Tests mit führenden Sprachmodellen.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16734786.svg)](https://doi.org/10.5281/zenodo.16734786)
+[![DOI](https://img.shields.io/badge/DOI-10.17605%2FOSF.IO%2FDR82B-blue)](https://doi.org/10.17605/OSF.IO/DR82B)
+
 Diese Arbeit umfasst:
 
 * [ ] `de/Thesen/` 56 Thesen
