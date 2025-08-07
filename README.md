@@ -19,6 +19,14 @@ This work includes:
 * [ ] `Systemic_Challenges/`3 chapters addressing systemic challenges
 * [ ] `critical_perspectives/`9 chapters presenting critical perspectives
 * [ ] `solutions/`7 solution approaches to developing secure AI
+- [ ] `releases/` – Academic Papers on the Research  
+      Includes:
+
+      • **Semantic Exploits and Emergent Vulnerabilities in Large Language Models**  
+        *A Red-Teaming Compendium*
+
+      • **Countermind**  
+        *A Semantically-Grounded, Multi-Layered Architecture Against AI Drift, Emergent Threats, and Semantic Attacks*
 
 ### 🧪 Methodological Framework
 
@@ -54,6 +62,8 @@ Initial validations of this research have been documented publicly and raise fun
 - [arXiv: Red Teaming the Mind of the Machine: A Systematic Evaluation of Prompt Injection and Jailbreak Vulnerabilities in LLMs](https://arxiv.org/abs/2505.04806)  
 - [arXiv: Demystifying Chains, Trees, and Graphs of Thoughts](https://arxiv.org/html/2401.14295v3)  
 - [arXiv: Reasoning Models Don't Always Say What They Think](https://arxiv.org/abs/2505.05410)
+- [Wired.com: A Single Poisoned Document Could Leak ‘Secret’ Data Via ChatGPT](https://www.wired.com/story/poisoned-document-could-leak-secret-data-chatgpt/)
+- [Wired.com: Hackers Hijacked Google’s Gemini AI With a Poisoned Calendar Invite to Take Over a Smart Home](https://www.wired.com/story/google-gemini-calendar-invite-hijack-smart-home/)
 
 ### 🧠 Quotes
 
