@@ -1,11 +1,3 @@
----
-title: "Countermind: A Semantically-Grounded, Multi-Layered Architecture Against AI Drift, Emergent Threats, and Semantic Attacks"
-author: "Dominik, Independent Researcher"
-date: "2025-08-07"
-github: "https://github.com/Xaklone/Ghosts-in-Machine"
-doi: "https://doi.org/10.5281/zenodo.1234567"
----
-
 # Countermind  
 ### A Semantically-Grounded, Multi-Layered Architecture Against AI Drift, Emergent Threats, and Semantic Attacks
 
