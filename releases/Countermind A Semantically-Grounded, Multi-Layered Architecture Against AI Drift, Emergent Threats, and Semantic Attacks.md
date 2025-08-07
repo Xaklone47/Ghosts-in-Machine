@@ -2,6 +2,7 @@
 ### A Semantically-Grounded, Multi-Layered Architecture Against AI Drift, Emergent Threats, and Semantic Attacks
 
 **Author:** Dominik, Independent Researcher
+
 **GitHub Repository:** [Xaklone/Ghosts-in-Machine](https://github.com/Xaklone/Ghosts-in-Machine)  
 **DOI (Zenodo):** [10.5281/zenodo.1234567](https://doi.org/10.5281/zenodo.1234567)
 
